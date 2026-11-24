@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+
+# Secrets: never commit them
+.env
+.env.*
+!.env.example
+
+.DS_Store
